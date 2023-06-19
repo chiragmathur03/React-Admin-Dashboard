@@ -1,6 +1,6 @@
 //Controls Settings of the Application 
 
-import react, { createContext, useContext, useState } from 'react';
+import { createContext, useContext, useState } from 'react';
 
 const StateContext = createContext();
 
